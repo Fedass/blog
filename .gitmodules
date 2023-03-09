@@ -1,0 +1,8 @@
+[submodule "Fedass.github.io"]
+	path = Fedass.github.io
+	url = git@github.com:Fedass/Fedass.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:Fedass/Fedass.github.io.git
+	branch = main
