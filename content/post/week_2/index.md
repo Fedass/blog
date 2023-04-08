@@ -1,6 +1,6 @@
 ---
-title: How was my first week.
-subtitle: Welcome 👋 It's my first post!!!
+title: How was my second week.
+subtitle: Welcome 👋 It's my second post!!!
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -9,10 +9,10 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-date: '2023-03-09T00:00:00Z'
+date: '2023-04-08T00:00:00Z'
 
 # Date updated
-lastmod: '2023-03-09T00:00:00Z'
+lastmod: '2023-04-08T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -32,17 +32,17 @@ authors:
   - admin
 
 tags:
-  - 1 week
+  - 2 week
 
 categories:
-  - post 1
+  - post 2
 ---
 
 ## Overview
 
-1. Last week i did 2 laboratory work on the course Operating systems.
-2. I went to the cinema with a friend to see the Russian film "Chekago", which i don't advise anyone to watch.
-3. I read George Clayson's book "The Richest Man in Vavylon", the book describes the history of the emergence of the principles of money management that we use in the present.
-4. I went to the gym 4 times.
+1. Last week i did all the necessary lab work.
+2. I wrote a test paper on mathematical logic.
+3. Spent time for self-development.
+4. I went to the gym 3 times.
 
 
