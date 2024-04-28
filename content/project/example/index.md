@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Python
+summary: Learning the Python language.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-05-137T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,12 +30,91 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+**What is Python?**
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Python is a programming language that is widely used in Internet applications, software development, data science and machine learning (ML). Developers use Python because it is efficient, easy to learn and works on different platforms. Python programs can be downloaded for free, they are compatible with all types of systems and increase the speed of development.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+What are the advantages of Python?
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+The Python language has the following advantages:
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+    -Developers can easily read and understand Python programs because the language has a basic syntax similar to that of English. 
+    -Python helps developers be more productive because they can write Python programs using fewer lines of code than in other languages.
+    -Python has a large standard library containing reusable codes for almost any task. As a result, developers do not need to write code from scratch.
+    -Developers can easily combine Python with other popular programming languages: Java, C and C++.
+    -The active Python community consists of millions of supportive developers from all over the world. If problems arise, the community will help in solving them.
+    -In addition, there are many useful resources available on the Internet for learning Python. For example, you can easily find videos, tutorials, documentation, and developer guides.
+    -Python can be ported to various operating systems: Windows, macOS, Linux and Unix.
+
+**Where is Python used?**
+
+The Python language has several standard examples of use in application development, including:
+Server-side web development
+
+1. Server-side web development includes complex server-side functions by which websites display information to the user. For example, websites should interact with databases and other websites, as well as protect data when it is sent over the network. 
+
+Python is useful when writing server-side code because it offers many libraries consisting of pre-written code for complex server-side functions. Developers also use a wide range of Python platforms, which provide all the necessary tools for faster and easier creation of Internet applications. For example, developers can create a "skeleton" of an Internet application in a matter of seconds, because they do not need to write code from scratch. It can then be tested using platform testing tools independently of external testing tools.
+Automation with Python scripts
+
+2. A scripting language is a programming language that automates tasks normally performed by humans. Programmers widely use Python scripts to automate many everyday tasks, including:
+
+    Simultaneous renaming of a large number of files
+    Converting a file to another file type
+    Deleting duplicate words in a text file
+    Performing basic mathematical operations
+    Sending Email messages
+    Downloading content
+    Performing basic log analysis
+    Finding errors in multiple files
+
+
+3. Data Science and machine learning
+
+Data science extracts valuable information from data, and machine learning (ML) allows computers to automatically learn from data and make accurate predictions. Data scientists use Python to solve the following tasks:
+
+    Correction and deletion of incorrect data (data cleaning) 
+    Extraction and selection of various data characteristics
+    Data markup adds meaningful names to data
+    Search for statistical information in data
+    Visualization of data using charts and graphs: line charts, bar charts, histograms and pie charts
+
+ 
+Data scientists use Python ML libraries for machine learning models and create classifiers that accurately classify data. Python-based classifiers are used in various fields and are used to perform tasks such as classifying images, text and network traffic, speech recognition and facial recognition. Data scientists also use Python for deep learning, an advanced machine learning technique.
+Software development
+
+4. Software developers often use Python for various development tasks and software applications, including:
+
+    Tracking errors in the software code
+Automatic software assembly
+    Software project management
+    Development of software prototypes
+    Desktop application Development using Graphical User Interface (GUI) libraries
+Game Development: from simple text games to complex video games
+
+5. Software Testing Automation
+
+Software testing is the process of verifying that the actual results of the software match the expected results, which makes sure that the software does not contain errors. 
+
+    Developers use Python unit testing environments (Unittest, Robot, and PyUnit) to test written functions. 
+    Software testers use Python to write test cases for various scenarios. For example, the language is used to test the user interface of an Internet application, several software components and new functions. 
+
+Developers can use several tools to automatically run test scripts. These tools are known as Continuous Integration/Continuous Deployment (CI/CD) tools. Testers and software developers use CI/CD tools (Travis CI and Jenkins) to automate the testing process. The CI/CD tool automatically runs Python test scripts and reports the test results whenever developers make new changes to the code.
+
+**What are the features of Python?**
+
+The Python language is unique due to the following features:
+Interpreted language
+
+Python is an interpreted language, meaning it executes code line by line. If there are errors in the program code, it stops working. This allows programmers to quickly find errors in the code.
+Easy-to-use language
+
+Python uses words similar to English words. Unlike other programming languages, Python does not use curly braces. Indentation is applied instead. 
+Dynamic typing language
+
+Programmers don't need to declare variable types when writing code, because Python defines them at runtime. This feature allows you to write Python programs much faster.
+High-level language
+
+Python is closer to natural languages than a number of other programming languages. Thanks to this, programmers do not need to worry about its basic functionality, such as architecture and memory management.
+Object-oriented language
+
+Python treats all elements as objects, but also supports other types of programming (for example, structural and functional programming).
